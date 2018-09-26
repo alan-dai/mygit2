@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mygit", "mygit\mygit.vcxproj", "{A35D9226-481C-4335-9A36-E8EF4DBB0DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35D9226-481C-4335-9A36-E8EF4DBB0DAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A35D9226-481C-4335-9A36-E8EF4DBB0DAF}.Debug|Win32.Build.0 = Debug|Win32
+		{A35D9226-481C-4335-9A36-E8EF4DBB0DAF}.Release|Win32.ActiveCfg = Release|Win32
+		{A35D9226-481C-4335-9A36-E8EF4DBB0DAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
